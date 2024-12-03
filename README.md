@@ -1,5 +1,8 @@
-<h1 align="center">許心慈(HSIN-TZU,HSU)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# (HSIN-TZU,HSU)
+- 生日：2003/06/20
+- 學歷：嘉義大學/ 資訊管理學系
+- E-mail：rachel.hht@gmail.com
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
