@@ -1,4 +1,4 @@
-# (HSIN-TZU,HSU)
+# 許心慈(HSIN-TZU,HSU)
 - 生日：2003/06/20
 - 學歷：嘉義大學/ 資訊管理學系
 - E-mail：rachel.hht@gmail.com
