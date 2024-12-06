@@ -4,8 +4,6 @@
 - E-mail：rachel.hht@gmail.com
 <hr>
 
-# My skill:
-
 
 <!--
 **rraxhel/rraxhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
